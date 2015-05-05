@@ -2,7 +2,7 @@
 
 ## Introduction ##
 
-The initial code was written by Thierry and Kaleigh as an assignment for the CS250 Spring 2012 at Hendrix College taught by Dr. Ferrer. 
+The initial code was written by Thierry and Kaleigh for an assignment for the CS250 Spring 2012 at Hendrix College taught by Dr. Ferrer. 
 
 ## Overview of the assignment ##
 
